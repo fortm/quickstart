@@ -5,5 +5,3 @@ draft: true
 
 ---
 About rock music and culture
-
-author
