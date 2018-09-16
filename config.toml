@@ -1,4 +1,4 @@
-baseURL = "https://webewall.com/"
+baseURL = "https://webewall.com"
 languageCode = "en-us"
 title = "Rocks"
 theme = "hugo-theme-bleak"
