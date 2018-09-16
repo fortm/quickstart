@@ -1,4 +1,28 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Rocks"
+theme = "hugo-theme-bleak"
+[params]
+  # Warning Keys are case sensitives
+  Subtitle = "How about this !"
+  description = "Everything is awesome !"
+  cover = "/images/cover.jpg"
+
+  # Google analytics
+  googleAnalyticsUserID = "UA-xxxxxxxx-x"
+  domainVerification = "xxxxxxxxxxxxxxxxxxxxx"
+  disqus = "xxxxxxxxx"
+
+  [params.author]
+    firstName = "Kishal"
+    lastName = "Raj"
+    gender = "(fe)?male"
+    userName = "fortm"
+    image = "//www.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.png"
+    website = "http://www.foo.com"
+    twitter = "xxxxxxx"
+    github = "github.com/fortm"
+    facebook = "xxxxxxxxx"
+    linkedin = "xxxxxxxxx"
+    gplus = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    gravatarHash = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
